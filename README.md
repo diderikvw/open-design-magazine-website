@@ -5,10 +5,10 @@ Content of the magazine is published under the Creative Commons Attribution Shar
 
 Open Design Magazine is digitally provided for free (gratis), the physical version can be ordered to print locally for a fee (TBD).
 
-# Creation process
+## Creation process
 The magazine is created in 5 phases:
 
-##  1. Determine Feasability (stealth mode)
+###  Phase 1. Determine Feasability (stealth mode)
 The goal of this phase is to determine:
 - If 6 authors can be found, willing to commit to writing an article about their (or a) comtemporary Open Design project
 - If a magazine can be created with very limited resources (time and money), using a collaborative process and Open Source tools
@@ -20,88 +20,85 @@ Intermediate results:
   - Vincent Muller, about the Pioneer's House of WikiHouseNL
 - Creative Commons and Open Knowledge Foundation have shown interest in the initiative
 - A GitHub repository with GitBook Desktop and GitBook Web has been successfully set up, promising a way for asynchronous co-located collaborative writing, reviewing and version management
+- Scribus has been found as the Open Source tool for Desktop Publishing
 
 To do:
-- A broader call for articles to find 3 additional authors
+- Do a broad call for articles to find 3 additional authors
+- Ask authors to ideate on name of magazine
 
 In this phase the project is in 'stealth mode', not giving broad attention to the initiative.
 
 Time frame: February/March 2018
 
-## 2. Get traction
-landing page w cover, outlines w author prof, signup email to get dig mag free and occ updates
-min. 1000 TBD signups for go
-reach out via platforms and socmed
-P2P, Shareable, OSHWA, CC, OKFN, FKI, Wevolver
+### Phase 2. Get Traction
+The goal of this phase is to determine if a large enough audience is actually interested in reading a magazine on Open Design, before actually creating the complete magazine.
 
-3. Write & create mag
-Write draft articles
-reviews
-final copy: txt img
-draft layouting scribus
-revieweing
-final mag
+To do:
+- Create a landing page where people interested can leave their e-mail address. The page contains:
+  - The (draft) cover of the magazine
+  - Outlines of the 6 articles, with image, author profile, profile image and organization logo
+  - E-mail submit form to receive the magazine for free when it is finished and receive occasional project updates
+  - Logos of organizations supporting the initiative (if any and permitted)
+  - Call for contributors (authors for future editions, editors, online marketeers, designers, ...)
+  - Time line for finishing the magazine
+  - Donation option to donate to the project
+- Write a press release kind of article, summarizing the initiative and process
+- Reach out to 'warm' contacts in the OD/OSHW society to publish via platforms and Social Media, like:
+  - P2PFoundation, Shareable, OSHWA, CC, OKDN, FKI, Wevolver, DDC, WikiHouse
+- Decide on go/no-go, depending on a minimum number of sign-ups of 1000 (TBD)
 
-4. Publish and reach out
-each author and contrib gets free fig and free 2 copies
-All channels plus more
-Get online free w mail signup
-Order prints
+Time frame: April/May/June 2018
 
-5. Outlook for establising
-review process eval feedback
-lessons learned
-enter into existing platform media hub?
-collab process documented
+### Phase 3. Write and Create the Magazine
+If phase 2 results in a 'go', then the goal of this phase is to create the actual magazine.
 
+To do:
+- Reach out to (sign up-) community to vote on the name of the magazine
+- Write draft articles
+- Review articles
+- Finalize article copy (text and images)
+- Design and lay-out draft magazine
+- Review magazine
+- Finalize magazine
 
-Contribute?
-Now all done by D
-authors for articles
-co-editor
-community outreach and online marketin
-partnershios and funding
-designer dtp
-reviewers
+Time frame: August/September/October 2018
 
+### Phase 4. Publish and Reach Out
+The goal of this phase is to distribute and make available the magazine to the largest audience possible.
 
+To do:
+- Change the landing page into a website for getting the magazine, free with e-mail signup and (locally) printed for a price (TBD)
+- Create a press release and communication toolkit with pre-cooked messages for various media
+- Create a list of all channels
+- Reach out to all channels, send the toolkit and link to the website
+- Send 2 physical copies to each author and contributor for free
 
+### Phase 5. Outlook for permanent establishment
+The goal of this phase is to determine if the first edition has enough traction to create a permanent establishment, either as a new entity or under an existing entity/organization.
 
+To do:
+- Evaluate process and results with authors and contributors, using an online evaluation form
+- Write lessons learned
+- Finalize documentation about the collaborative process
+- Reach out to potential organizations and brainstorm with Open Design Magazine community
 
-## Welcome to GitHub Pages
+Time frame: November/December 2018, January 2019
 
-You can use the [editor on GitHub](https://github.com/diderikvw/open-design-magazine-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## You contribute?
+Besided the contribution of the authors, the Open Design Magazine initiative is completely run and coordinated by Diderik van Wingerden at this moment. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Any help from you will be greatly appreciated. Also, with more people contributing, the time frame of creating and publishing the magazine may be shortened.
 
-### Markdown
+Help is welcomed in:
+- Finding (or being an) article author(s)
+- Reviewing
+- Co-editing
+- Community outreach and online communication/marketing
+- Finding partnerships and funding
+- Designing the magazine
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/diderikvw/open-design-magazine-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+You can contact Diderik, the coordinator of Open Design Magazine, via:
+[Diderik's website](http://think-innovation.com/contact/)
+[Twitter](https://twitter.com/diderikvw)
++31(0)621639148, Telegram, Signal, SMS, Whatsapp

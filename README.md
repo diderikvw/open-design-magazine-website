@@ -15,7 +15,7 @@ The goal of this phase is to determine:
 
 Intermediate results:
 - 3 authors have indicated their willingness to contribute an article:
-  - Christian Villium, about the REMODEL program of Danish Design Center
+  - Christian Villum, about the REMODEL program of Danish Design Center
   - Jérémy Bonvoisin, about the OPEN! Research Project
   - Vincent Muller, about the Pioneer's House of WikiHouseNL
 - Creative Commons and Open Knowledge Foundation have shown interest in the initiative
@@ -85,7 +85,7 @@ To do:
 - Reach out to potential organizations and brainstorm with Open Design Magazine community
 
 ## You contribute?
-Besided the contribution of the authors, the Open Design Magazine initiative is completely run and coordinated by Diderik van Wingerden at this moment. 
+Besided the contribution of the authors, the Open Design Magazine initiative is completely run and coordinated by Diderik van Wingerden at this moment, with Christian Villum as advisor. 
 
 Any help from you will be greatly appreciated. Also, with more people contributing, the time frame of creating and publishing the magazine may be shortened.
 

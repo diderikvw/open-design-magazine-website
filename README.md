@@ -73,6 +73,8 @@ To do:
 - Reach out to all channels, send the toolkit and link to the website
 - Send 2 physical copies to each author and contributor for free
 
+Time frame: November/December 2018, January 2019
+
 ### Phase 5. Outlook for permanent establishment
 The goal of this phase is to determine if the first edition has enough traction to create a permanent establishment, either as a new entity or under an existing entity/organization.
 
@@ -81,8 +83,6 @@ To do:
 - Write lessons learned
 - Finalize documentation about the collaborative process
 - Reach out to potential organizations and brainstorm with Open Design Magazine community
-
-Time frame: November/December 2018, January 2019
 
 ## You contribute?
 Besided the contribution of the authors, the Open Design Magazine initiative is completely run and coordinated by Diderik van Wingerden at this moment. 

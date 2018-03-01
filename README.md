@@ -99,6 +99,6 @@ Help is welcomed in:
 
 ## Contact
 You can contact Diderik, the coordinator of Open Design Magazine, via:
-[Diderik's website](http://think-innovation.com/contact/)
-[Twitter](https://twitter.com/diderikvw)
-+31(0)621639148, Telegram, Signal, SMS, Whatsapp
+- [Diderik's website](http://think-innovation.com/contact/)
+- [Twitter](https://twitter.com/diderikvw)
+- +31(0)621639148, Telegram, Signal, SMS, Whatsapp

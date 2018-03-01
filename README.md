@@ -8,14 +8,25 @@ Open Design Magazine is digitally provided for free (gratis), the physical versi
 # Creation process
 The magazine is created in 5 phases:
 
+##  1. Determine Feasability (stealth mode)
+The goal of this phase is to determine:
+- If 6 authors can be found, willing to commit to writing an article about their (or a) comtemporary Open Design project
+- If a magazine can be created with very limited resources (time and money), using a collaborative process and Open Source tools
 
-Process
-1. Determine feasability
-6 articles, 3 in
-interest OKFN CC
-collabotlrative process, w very limited resources (time money)
-call for articles
-set up tooling OSS GH GB Scribus proces
+Intermediate results:
+- 3 authors have indicated their willingness to contribute an article:
+-- Christian Villium, about the REMODEL program of Danish Design Center
+-- Jérémy Bonvoisin, about the OPEN! Research Project
+-- Vincent Muller, about the Pioneer's House of WikiHouseNL
+- Creative Commons and Open Knowledge Foundation have shown interest in the initiative
+- A GitHub repository with GitBook Desktop and GitBook Web has been successfully set up, promising a collaborative asynchronous co-located way for collaborative writing, reviewing and version management
+
+To do:
+- A broader call for articles to find 3 additional authors
+
+In this phase the project is in 'stealth mode', not giving broad attention to the initiative.
+
+
 
 2. Get traction
 landing page w cover, outlines w author prof, signup email to get dig mag free and occ updates

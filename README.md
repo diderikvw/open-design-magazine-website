@@ -15,20 +15,20 @@ The goal of this phase is to determine:
 
 Intermediate results:
 - 3 authors have indicated their willingness to contribute an article:
--- Christian Villium, about the REMODEL program of Danish Design Center
--- Jérémy Bonvoisin, about the OPEN! Research Project
--- Vincent Muller, about the Pioneer's House of WikiHouseNL
+  - Christian Villium, about the REMODEL program of Danish Design Center
+  - Jérémy Bonvoisin, about the OPEN! Research Project
+  - Vincent Muller, about the Pioneer's House of WikiHouseNL
 - Creative Commons and Open Knowledge Foundation have shown interest in the initiative
-- A GitHub repository with GitBook Desktop and GitBook Web has been successfully set up, promising a collaborative asynchronous co-located way for collaborative writing, reviewing and version management
+- A GitHub repository with GitBook Desktop and GitBook Web has been successfully set up, promising a way for asynchronous co-located collaborative writing, reviewing and version management
 
 To do:
 - A broader call for articles to find 3 additional authors
 
 In this phase the project is in 'stealth mode', not giving broad attention to the initiative.
 
+Time frame: February/March 2018
 
-
-2. Get traction
+## 2. Get traction
 landing page w cover, outlines w author prof, signup email to get dig mag free and occ updates
 min. 1000 TBD signups for go
 reach out via platforms and socmed

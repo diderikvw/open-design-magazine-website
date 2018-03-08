@@ -28,6 +28,8 @@ To do:
 
 In this phase the project is in 'stealth mode', not giving broad attention to the initiative.
 
+For information about contributing an article (outline) see [the wiki](https://github.com/diderikvw/open-design-magazine-01/wiki/How-to-contribute-an-article). 
+
 Time frame: February/March 2018
 
 ### Phase 2. Get Traction

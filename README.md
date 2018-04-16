@@ -5,6 +5,15 @@ Content of the magazine is published under the Creative Commons Attribution Shar
 
 Open Design Magazine is digitally provided for free (gratis), the physical version can be ordered to print locally for a fee (TBD).
 
+## Why Open Design Magazine?
+The Internet makes global sharing of knowledge and information possible at the speed of light. The development of cheap computer-controlled fabrication machines and design software puts R&D in the hands of many and makes local fabrication possible. 
+
+We believe that the combination of these two is very powerful, especially when collaboration and sharing are built in by design, using the principles of Open Source. For physical things we use the designations "Open Design" and "Open Source Hardware" in this context.
+
+We see a growing grass-roots movement of pioneering communities using these tools and principles, actively working to solve real-world problems. We believe that there is a real opportunity here, with local communities becoming more resilient and more independent, providing in their own needs. 
+
+With Open Design Magazine we want to support this movement, by showing real-world results, letting people tell their stories, cross-polluting the in-crowd and inspiring a broader audience by showing a viable alternative.
+
 ## Creation process
 The magazine is created in 5 phases:
 
